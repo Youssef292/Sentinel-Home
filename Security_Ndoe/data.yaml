@@ -1,0 +1,14 @@
+names:
+- Gun
+- Knife
+- Pistol
+nc: 3
+roboflow:
+  license: CC BY 4.0
+  project: weapon_detection-leyfd
+  url: https://universe.roboflow.com/weapon-detection-kcvva/weapon_detection-leyfd/dataset/5
+  version: 5
+  workspace: weapon-detection-kcvva
+test: test/images
+train: train/images
+val: valid/images
